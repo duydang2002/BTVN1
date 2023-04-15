@@ -1,0 +1,12 @@
+Ma So Sinh Vien:20207596
+Ho ten Sinh Vien:Dang Nhat Duy
+Ngay sinh:02/07/2002
+Diem Tb:3.71
+Ma So Sinh Vien:20207595
+Ho ten Sinh Vien:Duy Nhat Dang
+Ngay sinh:02/07/2002
+Diem Tb:3.70
+Ma So Sinh Vien:20207594
+Ho ten Sinh Vien:Nhat Dang Duy
+Ngay sinh:08/06/2002
+Diem Tb:3.9
